@@ -369,10 +369,10 @@
             spaceBetween: 30,
             speed: 1300,
             loop: true,
-            autoplay: {
-                delay: 2000,
-                disableOnInteraction: false,
-            },
+            // autoplay: {
+            //     delay: 2000,
+            //     disableOnInteraction: false,
+            // },
              pagination: {
                 el: ".dot",
                 clickable: true,
